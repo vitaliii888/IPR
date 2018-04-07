@@ -1,1 +1,1 @@
-# IPR projects
+# Image processing and recognition tasks
